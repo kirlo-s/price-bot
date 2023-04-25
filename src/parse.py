@@ -18,9 +18,15 @@ def parse(product_name):
 
     #値の取得
     price = price_data.text
+    price = price.replace(',', '')
+    price = price.replace("¥","")
+    price = int(price)
+
     url = price_data.get("href")
     store = store_data
     img = img_data.get("src")
 
-    p_data = {"price":price,"url":url,"store":store,"img":img}
+    p_data = {"name" : product_name,"price":price,"url":url,"store":store,"img":img}
+
+    get.set_price(p_data)
     return p_data

@@ -1,11 +1,434 @@
 [
     {
-        "name" : "RX 6600XT",
-        "category" : "videocard",
-        "price_before" : "",
-        "param" : {
-            "pdf_Spec112" : "90",
-            "pdf_so" : "p1"
+        "name": "GeForce RTX 4090",
+        "category": "videocard",
+        "price_before": 262800,
+        "param": {
+            "pdf_Spec103": "490",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 4080",
+        "category": "videocard",
+        "price_before": 179800,
+        "param": {
+            "pdf_Spec103": "491",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 4070 Ti",
+        "category": "videocard",
+        "price_before": 124800,
+        "param": {
+            "pdf_Spec103": "492",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 4070",
+        "category": "videocard",
+        "price_before": 94980,
+        "param": {
+            "pdf_Spec103": "493",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3090 Ti",
+        "category": "videocard",
+        "price_before": 247378,
+        "param": {
+            "pdf_Spec103": "488",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3090",
+        "category": "videocard",
+        "price_before": 186022,
+        "param": {
+            "pdf_Spec103": "481",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3080 Ti",
+        "category": "videocard",
+        "price_before": 129800,
+        "param": {
+            "pdf_Spec103": "485",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3080",
+        "category": "videocard",
+        "price_before": 99000,
+        "param": {
+            "pdf_Spec103": "480",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3070 Ti",
+        "category": "videocard",
+        "price_before": 79980,
+        "param": {
+            "pdf_Spec103": "486",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3070",
+        "category": "videocard",
+        "price_before": 69800,
+        "param": {
+            "pdf_Spec103": "479",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3060 Ti",
+        "category": "videocard",
+        "price_before": 57500,
+        "param": {
+            "pdf_Spec103": "482",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3060",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "484",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 3050",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "487",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce RTX 2060",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "469",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1660 Ti",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "471",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1660 SUPER",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "477",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1660",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "472",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1650 (G6)",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "473",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1650 (G5)",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "483",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1630",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "489",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GT 1030",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "458",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1060",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "424",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 1050 Ti",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "427",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 980",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "403",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GT 730",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "398",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GT 710",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "459",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "GeForce GTX 280",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec103": "292",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 7900 XTX",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "99",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 7900 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "98",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6950 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "96",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6900 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "88",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6800 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "86",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6800",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "87",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6750 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "95",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6700 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "89",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6700",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "97",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6650 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "94",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6600 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "90",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6600",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "91",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6500 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "92",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 6400",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "93",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 5700 XT",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "82",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 580",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "69",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 550",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "71",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Radeon RX 560",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec112": "75",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Arc A770",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec116": "3",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Arc A750",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec116": "2",
+            "pdf_so": "p1"
+        }
+    },
+    {
+        "name": "Arc A380",
+        "category": "videocard",
+        "price_before": "",
+        "param": {
+            "pdf_Spec116": "1",
+            "pdf_so": "p1"
         }
     }
 ]
