@@ -1,4 +1,6 @@
-from src.lib import get 
+from src import parse
 
 
-get.get_data("RX 6600XT")
+
+parse.parse("RX 6600XT")
+

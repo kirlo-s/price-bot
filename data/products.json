@@ -2,6 +2,7 @@
     {
         "name" : "RX 6600XT",
         "category" : "videocard",
+        "price_before" : "",
         "param" : {
             "pdf_Spec112" : "90",
             "pdf_so" : "p1"

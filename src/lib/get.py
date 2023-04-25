@@ -8,8 +8,7 @@ def get_data(product_name):
     url,param = get_url(product_name)
 
     data = requests.get(url,params=param)
-    print(data.content.decode("shift-jis"))
-    
+
     return data
 
 def get_url(product_name):
