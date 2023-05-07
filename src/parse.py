@@ -26,7 +26,7 @@ def parse(product_name):
     store = store_data
     img = img_data.get("src")
 
-    p_data = {"name" : product_name,"price":price,"url":url,"store":store,"img":img}
+    p_data = {"name" : product_name,"price":price,"price_before": None,"url":url,"store":store,"img":img}
 
-    get.set_price(p_data)
+    p_data["price_before"]= get.set_price(p_data)
     return p_data

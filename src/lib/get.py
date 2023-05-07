@@ -39,13 +39,16 @@ def set_price(product_data):
     rpf = open("data/products.json")
     pf = json.load(rpf)
     rpf.close()
+    price_before = ""
     for pd in pf:
             if pd["name"] == product_data["name"]:
+                price_before = pd["price_before"]
                 pd["price_before"] = product_data["price"]
                 break
     
     rpf = open("data/products.json","w")
     json.dump(pf,rpf,indent=4)
+    return price_before
 
 def product_list():
     rpf = open("data/products.json")

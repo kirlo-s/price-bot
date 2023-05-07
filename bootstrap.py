@@ -5,5 +5,5 @@ from src.lib import get
 list = get.product_list()
 
 for i in list:
-    parse.parse(i)
-    
+    data = parse.parse(i)
+    print(data)

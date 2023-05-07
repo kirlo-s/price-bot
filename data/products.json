@@ -2,7 +2,7 @@
     {
         "name": "GeForce RTX 4090",
         "category": "videocard",
-        "price_before": 262800,
+        "price_before": 259800,
         "param": {
             "pdf_Spec103": "490",
             "pdf_so": "p1"
@@ -11,7 +11,7 @@
     {
         "name": "GeForce RTX 4080",
         "category": "videocard",
-        "price_before": 179800,
+        "price_before": 176000,
         "param": {
             "pdf_Spec103": "491",
             "pdf_so": "p1"
@@ -29,7 +29,7 @@
     {
         "name": "GeForce RTX 4070",
         "category": "videocard",
-        "price_before": 94980,
+        "price_before": 91980,
         "param": {
             "pdf_Spec103": "493",
             "pdf_so": "p1"
@@ -38,7 +38,7 @@
     {
         "name": "GeForce RTX 3090 Ti",
         "category": "videocard",
-        "price_before": 247378,
+        "price_before": 245520,
         "param": {
             "pdf_Spec103": "488",
             "pdf_so": "p1"
@@ -47,7 +47,7 @@
     {
         "name": "GeForce RTX 3090",
         "category": "videocard",
-        "price_before": 186022,
+        "price_before": 180607,
         "param": {
             "pdf_Spec103": "481",
             "pdf_so": "p1"
@@ -56,7 +56,7 @@
     {
         "name": "GeForce RTX 3080 Ti",
         "category": "videocard",
-        "price_before": 129800,
+        "price_before": 135464,
         "param": {
             "pdf_Spec103": "485",
             "pdf_so": "p1"
@@ -65,7 +65,7 @@
     {
         "name": "GeForce RTX 3080",
         "category": "videocard",
-        "price_before": 99000,
+        "price_before": 97790,
         "param": {
             "pdf_Spec103": "480",
             "pdf_so": "p1"
@@ -83,7 +83,7 @@
     {
         "name": "GeForce RTX 3070",
         "category": "videocard",
-        "price_before": 69800,
+        "price_before": 69980,
         "param": {
             "pdf_Spec103": "479",
             "pdf_so": "p1"
@@ -92,7 +92,7 @@
     {
         "name": "GeForce RTX 3060 Ti",
         "category": "videocard",
-        "price_before": 57500,
+        "price_before": 54780,
         "param": {
             "pdf_Spec103": "482",
             "pdf_so": "p1"
@@ -101,7 +101,7 @@
     {
         "name": "GeForce RTX 3060",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 40980,
         "param": {
             "pdf_Spec103": "484",
             "pdf_so": "p1"
@@ -110,7 +110,7 @@
     {
         "name": "GeForce RTX 3050",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 36980,
         "param": {
             "pdf_Spec103": "487",
             "pdf_so": "p1"
@@ -119,7 +119,7 @@
     {
         "name": "GeForce RTX 2060",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 43800,
         "param": {
             "pdf_Spec103": "469",
             "pdf_so": "p1"
@@ -128,7 +128,7 @@
     {
         "name": "GeForce GTX 1660 Ti",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 39800,
         "param": {
             "pdf_Spec103": "471",
             "pdf_so": "p1"
@@ -137,7 +137,7 @@
     {
         "name": "GeForce GTX 1660 SUPER",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 29800,
         "param": {
             "pdf_Spec103": "477",
             "pdf_so": "p1"
@@ -146,7 +146,7 @@
     {
         "name": "GeForce GTX 1660",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 36500,
         "param": {
             "pdf_Spec103": "472",
             "pdf_so": "p1"
@@ -155,7 +155,7 @@
     {
         "name": "GeForce GTX 1650 (G6)",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 19800,
         "param": {
             "pdf_Spec103": "473",
             "pdf_so": "p1"
@@ -164,7 +164,7 @@
     {
         "name": "GeForce GTX 1650 (G5)",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 19980,
         "param": {
             "pdf_Spec103": "483",
             "pdf_so": "p1"
@@ -173,7 +173,7 @@
     {
         "name": "GeForce GTX 1630",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 13980,
         "param": {
             "pdf_Spec103": "489",
             "pdf_so": "p1"
@@ -182,7 +182,7 @@
     {
         "name": "GeForce GT 1030",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 9970,
         "param": {
             "pdf_Spec103": "458",
             "pdf_so": "p1"
@@ -191,7 +191,7 @@
     {
         "name": "GeForce GTX 1060",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 39800,
         "param": {
             "pdf_Spec103": "424",
             "pdf_so": "p1"
@@ -200,7 +200,7 @@
     {
         "name": "GeForce GTX 1050 Ti",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 15800,
         "param": {
             "pdf_Spec103": "427",
             "pdf_so": "p1"
@@ -209,7 +209,7 @@
     {
         "name": "GeForce GTX 980",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 65779,
         "param": {
             "pdf_Spec103": "403",
             "pdf_so": "p1"
@@ -218,7 +218,7 @@
     {
         "name": "GeForce GT 730",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 6865,
         "param": {
             "pdf_Spec103": "398",
             "pdf_so": "p1"
@@ -227,7 +227,7 @@
     {
         "name": "GeForce GT 710",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 3799,
         "param": {
             "pdf_Spec103": "459",
             "pdf_so": "p1"
@@ -236,7 +236,7 @@
     {
         "name": "GeForce GTX 280",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 74757,
         "param": {
             "pdf_Spec103": "292",
             "pdf_so": "p1"
@@ -245,7 +245,7 @@
     {
         "name": "Radeon RX 7900 XTX",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 159800,
         "param": {
             "pdf_Spec112": "99",
             "pdf_so": "p1"
@@ -254,7 +254,7 @@
     {
         "name": "Radeon RX 7900 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 125800,
         "param": {
             "pdf_Spec112": "98",
             "pdf_so": "p1"
@@ -263,7 +263,7 @@
     {
         "name": "Radeon RX 6950 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 97800,
         "param": {
             "pdf_Spec112": "96",
             "pdf_so": "p1"
@@ -272,7 +272,7 @@
     {
         "name": "Radeon RX 6900 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 95700,
         "param": {
             "pdf_Spec112": "88",
             "pdf_so": "p1"
@@ -281,7 +281,7 @@
     {
         "name": "Radeon RX 6800 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 84800,
         "param": {
             "pdf_Spec112": "86",
             "pdf_so": "p1"
@@ -290,7 +290,7 @@
     {
         "name": "Radeon RX 6800",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 77248,
         "param": {
             "pdf_Spec112": "87",
             "pdf_so": "p1"
@@ -299,7 +299,7 @@
     {
         "name": "Radeon RX 6750 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 58800,
         "param": {
             "pdf_Spec112": "95",
             "pdf_so": "p1"
@@ -308,7 +308,7 @@
     {
         "name": "Radeon RX 6700 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 53980,
         "param": {
             "pdf_Spec112": "89",
             "pdf_so": "p1"
@@ -317,7 +317,7 @@
     {
         "name": "Radeon RX 6700",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 54980,
         "param": {
             "pdf_Spec112": "97",
             "pdf_so": "p1"
@@ -326,7 +326,7 @@
     {
         "name": "Radeon RX 6650 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 44800,
         "param": {
             "pdf_Spec112": "94",
             "pdf_so": "p1"
@@ -335,7 +335,7 @@
     {
         "name": "Radeon RX 6600 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 46800,
         "param": {
             "pdf_Spec112": "90",
             "pdf_so": "p1"
@@ -344,7 +344,7 @@
     {
         "name": "Radeon RX 6600",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 34800,
         "param": {
             "pdf_Spec112": "91",
             "pdf_so": "p1"
@@ -353,7 +353,7 @@
     {
         "name": "Radeon RX 6500 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 20800,
         "param": {
             "pdf_Spec112": "92",
             "pdf_so": "p1"
@@ -362,7 +362,7 @@
     {
         "name": "Radeon RX 6400",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 19800,
         "param": {
             "pdf_Spec112": "93",
             "pdf_so": "p1"
@@ -371,7 +371,7 @@
     {
         "name": "Radeon RX 5700 XT",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 45980,
         "param": {
             "pdf_Spec112": "82",
             "pdf_so": "p1"
@@ -380,7 +380,7 @@
     {
         "name": "Radeon RX 580",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 27782,
         "param": {
             "pdf_Spec112": "69",
             "pdf_so": "p1"
@@ -389,7 +389,7 @@
     {
         "name": "Radeon RX 550",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 11980,
         "param": {
             "pdf_Spec112": "71",
             "pdf_so": "p1"
@@ -398,7 +398,7 @@
     {
         "name": "Radeon RX 560",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 11980,
         "param": {
             "pdf_Spec112": "75",
             "pdf_so": "p1"
@@ -407,7 +407,7 @@
     {
         "name": "Arc A770",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 39980,
         "param": {
             "pdf_Spec116": "3",
             "pdf_so": "p1"
@@ -416,7 +416,7 @@
     {
         "name": "Arc A750",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 34980,
         "param": {
             "pdf_Spec116": "2",
             "pdf_so": "p1"
@@ -425,7 +425,7 @@
     {
         "name": "Arc A380",
         "category": "videocard",
-        "price_before": "",
+        "price_before": 21800,
         "param": {
             "pdf_Spec116": "1",
             "pdf_so": "p1"
