@@ -1,3 +1,4 @@
 {
-    "videocard" : "/pc/videocard" 
+    "videocard" : "/pc/videocard",
+    "cpu" : "/pc/cpu"
 }

@@ -1,8 +1,344 @@
 [
     {
+        "name": "Core i9 13900KS BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001508680/"
+    },
+    {
+        "name": "Core i9 13900 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506426/"
+    },
+    {
+        "name": "Core i9 13900K BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001476105/"
+    },
+    {
+        "name": "Core i9 13900F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506427/"
+    },
+    {
+        "name": "Core i9 13900KF BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001476106/"
+    },
+    {
+        "name": "Core i9 12900KS BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001431949/"
+    },
+    {
+        "name": "Core i9 12900F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413989/"
+    },
+    {
+        "name": "Core i9 12900K BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001395716/"
+    },
+    {
+        "name": "Core i9 12900 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413988/"
+    },
+    {
+        "name": "Core i9 12900KF BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001395717/"
+    },
+    {
+        "name": "Core i7 13700K BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001476107/"
+    },
+    {
+        "name": "Core i7 13700KF BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001476108/"
+    },
+    {
+        "name": "Core i7 13700 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506428/"
+    },
+    {
+        "name": "Core i7 13700F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506429/"
+    },
+    {
+        "name": "Core i7 12700K BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001395718/"
+    },
+    {
+        "name": "Core i7 12700KF BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001395719/"
+    },
+    {
+        "name": "Core i7 12700 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413990/"
+    },
+    {
+        "name": "Core i5 13600K BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001476109/"
+    },
+    {
+        "name": "Core i7 12700F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413991/"
+    },
+    {
+        "name": "Core i5 13600KF BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001476110/"
+    },
+    {
+        "name": "Core i5 12600K BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001395720/"
+    },
+    {
+        "name": "Core i5 12600 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413992/"
+    },
+    {
+        "name": "Core i5 12600KF BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001395721/"
+    },
+    {
+        "name": "Core i5 13500 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506430/"
+    },
+    {
+        "name": "Core i5 13400 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506431/"
+    },
+    {
+        "name": "Core i5 12500 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413993/"
+    },
+    {
+        "name": "Core i5 13400F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506432/"
+    },
+    {
+        "name": "Core i5 12400 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413994/"
+    },
+    {
+        "name": "Core i5 12400F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413995/"
+    },
+    {
+        "name": "Core i3 13100 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506433/"
+    },
+    {
+        "name": "Core i3 12100 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413997/"
+    },
+    {
+        "name": "Core i3 13100F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001506434/"
+    },
+    {
+        "name": "Core i3 12100F BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001413998/"
+    },
+    {
+        "name": "Ryzen Threadripper PRO 5995WX BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001466165/"
+    },
+    {
+        "name": "Ryzen Threadripper PRO 5975WX BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001464947/"
+    },
+    {
+        "name": "Ryzen Threadripper PRO 5965WX BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001464948/"
+    },
+    {
+        "name": "Ryzen 9 7950X3D BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001507442/"
+    },
+    {
+        "name": "Ryzen 9 7900X3D BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001507443/"
+    },
+    {
+        "name": "Ryzen 9 7950X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001467703/"
+    },
+    {
+        "name": "Ryzen 9 5950X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001299536/"
+    },
+    {
+        "name": "Ryzen 7 7800X3D BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001507444/"
+    },
+    {
+        "name": "Ryzen 9 7900 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001507445/"
+    },
+    {
+        "name": "Ryzen 9 7900X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001467704/"
+    },
+    {
+        "name": "Ryzen 7 7700 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001507446/"
+    },
+    {
+        "name": "Ryzen 7 5800X3D BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001437357/"
+    },
+    {
+        "name": "Ryzen 7 7700X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001467705/"
+    },
+    {
+        "name": "Ryzen 9 5900X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001299537/"
+    },
+    {
+        "name": "Ryzen 5 7600 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001507447/"
+    },
+    {
+        "name": "Ryzen 7 5800X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001299538/"
+    },
+    {
+        "name": "Ryzen 5 7600X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001467706/"
+    },
+    {
+        "name": "Ryzen 7 5700X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001429753/"
+    },
+    {
+        "name": "Ryzen 7 5700G BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001359218/"
+    },
+    {
+        "name": "Ryzen 5 5600X BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001299539/"
+    },
+    {
+        "name": "Ryzen 5 5600 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001429754/"
+    },
+    {
+        "name": "Ryzen 5 5600G BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001359217/"
+    },
+    {
+        "name": "Ryzen 5 5500 BOX",
+        "category": "cpu",
+        "price": "",
+        "url": "https://kakaku.com/item/K0001429755/"
+    },
+    {
         "name": "GeForce RTX 4090",
         "category": "videocard",
-        "price_before": 259800,
+        "price": 259800,
         "param": {
             "pdf_Spec103": "490",
             "pdf_so": "p1"
@@ -11,7 +347,7 @@
     {
         "name": "GeForce RTX 4080",
         "category": "videocard",
-        "price_before": 176000,
+        "price": 176000,
         "param": {
             "pdf_Spec103": "491",
             "pdf_so": "p1"
@@ -20,7 +356,7 @@
     {
         "name": "GeForce RTX 4070 Ti",
         "category": "videocard",
-        "price_before": 124800,
+        "price": 124800,
         "param": {
             "pdf_Spec103": "492",
             "pdf_so": "p1"
@@ -29,7 +365,7 @@
     {
         "name": "GeForce RTX 4070",
         "category": "videocard",
-        "price_before": 91980,
+        "price": 91980,
         "param": {
             "pdf_Spec103": "493",
             "pdf_so": "p1"
@@ -38,7 +374,7 @@
     {
         "name": "GeForce RTX 3090 Ti",
         "category": "videocard",
-        "price_before": 245520,
+        "price": 245520,
         "param": {
             "pdf_Spec103": "488",
             "pdf_so": "p1"
@@ -47,7 +383,7 @@
     {
         "name": "GeForce RTX 3090",
         "category": "videocard",
-        "price_before": 180607,
+        "price": 180607,
         "param": {
             "pdf_Spec103": "481",
             "pdf_so": "p1"
@@ -56,7 +392,7 @@
     {
         "name": "GeForce RTX 3080 Ti",
         "category": "videocard",
-        "price_before": 135464,
+        "price": 135464,
         "param": {
             "pdf_Spec103": "485",
             "pdf_so": "p1"
@@ -65,7 +401,7 @@
     {
         "name": "GeForce RTX 3080",
         "category": "videocard",
-        "price_before": 97790,
+        "price": 97790,
         "param": {
             "pdf_Spec103": "480",
             "pdf_so": "p1"
@@ -74,7 +410,7 @@
     {
         "name": "GeForce RTX 3070 Ti",
         "category": "videocard",
-        "price_before": 79980,
+        "price": 79980,
         "param": {
             "pdf_Spec103": "486",
             "pdf_so": "p1"
@@ -83,7 +419,7 @@
     {
         "name": "GeForce RTX 3070",
         "category": "videocard",
-        "price_before": 69980,
+        "price": 69980,
         "param": {
             "pdf_Spec103": "479",
             "pdf_so": "p1"
@@ -92,7 +428,7 @@
     {
         "name": "GeForce RTX 3060 Ti",
         "category": "videocard",
-        "price_before": 54780,
+        "price": 54780,
         "param": {
             "pdf_Spec103": "482",
             "pdf_so": "p1"
@@ -101,7 +437,7 @@
     {
         "name": "GeForce RTX 3060",
         "category": "videocard",
-        "price_before": 40980,
+        "price": 40980,
         "param": {
             "pdf_Spec103": "484",
             "pdf_so": "p1"
@@ -110,7 +446,7 @@
     {
         "name": "GeForce RTX 3050",
         "category": "videocard",
-        "price_before": 36980,
+        "price": 36980,
         "param": {
             "pdf_Spec103": "487",
             "pdf_so": "p1"
@@ -119,7 +455,7 @@
     {
         "name": "GeForce RTX 2060",
         "category": "videocard",
-        "price_before": 43800,
+        "price": 43800,
         "param": {
             "pdf_Spec103": "469",
             "pdf_so": "p1"
@@ -128,7 +464,7 @@
     {
         "name": "GeForce GTX 1660 Ti",
         "category": "videocard",
-        "price_before": 39800,
+        "price": 39800,
         "param": {
             "pdf_Spec103": "471",
             "pdf_so": "p1"
@@ -137,7 +473,7 @@
     {
         "name": "GeForce GTX 1660 SUPER",
         "category": "videocard",
-        "price_before": 29800,
+        "price": 29800,
         "param": {
             "pdf_Spec103": "477",
             "pdf_so": "p1"
@@ -146,7 +482,7 @@
     {
         "name": "GeForce GTX 1660",
         "category": "videocard",
-        "price_before": 36500,
+        "price": 36500,
         "param": {
             "pdf_Spec103": "472",
             "pdf_so": "p1"
@@ -155,7 +491,7 @@
     {
         "name": "GeForce GTX 1650 (G6)",
         "category": "videocard",
-        "price_before": 19800,
+        "price": 19800,
         "param": {
             "pdf_Spec103": "473",
             "pdf_so": "p1"
@@ -164,7 +500,7 @@
     {
         "name": "GeForce GTX 1650 (G5)",
         "category": "videocard",
-        "price_before": 19980,
+        "price": 19980,
         "param": {
             "pdf_Spec103": "483",
             "pdf_so": "p1"
@@ -173,7 +509,7 @@
     {
         "name": "GeForce GTX 1630",
         "category": "videocard",
-        "price_before": 13980,
+        "price": 13980,
         "param": {
             "pdf_Spec103": "489",
             "pdf_so": "p1"
@@ -182,7 +518,7 @@
     {
         "name": "GeForce GT 1030",
         "category": "videocard",
-        "price_before": 9970,
+        "price": 9970,
         "param": {
             "pdf_Spec103": "458",
             "pdf_so": "p1"
@@ -191,7 +527,7 @@
     {
         "name": "GeForce GTX 1060",
         "category": "videocard",
-        "price_before": 39800,
+        "price": 39800,
         "param": {
             "pdf_Spec103": "424",
             "pdf_so": "p1"
@@ -200,7 +536,7 @@
     {
         "name": "GeForce GTX 1050 Ti",
         "category": "videocard",
-        "price_before": 15800,
+        "price": 15800,
         "param": {
             "pdf_Spec103": "427",
             "pdf_so": "p1"
@@ -209,7 +545,7 @@
     {
         "name": "GeForce GTX 980",
         "category": "videocard",
-        "price_before": 65779,
+        "price": 65779,
         "param": {
             "pdf_Spec103": "403",
             "pdf_so": "p1"
@@ -218,7 +554,7 @@
     {
         "name": "GeForce GT 730",
         "category": "videocard",
-        "price_before": 6865,
+        "price": 6865,
         "param": {
             "pdf_Spec103": "398",
             "pdf_so": "p1"
@@ -227,7 +563,7 @@
     {
         "name": "GeForce GT 710",
         "category": "videocard",
-        "price_before": 3799,
+        "price": 3799,
         "param": {
             "pdf_Spec103": "459",
             "pdf_so": "p1"
@@ -236,7 +572,7 @@
     {
         "name": "GeForce GTX 280",
         "category": "videocard",
-        "price_before": 74757,
+        "price": 74757,
         "param": {
             "pdf_Spec103": "292",
             "pdf_so": "p1"
@@ -245,7 +581,7 @@
     {
         "name": "Radeon RX 7900 XTX",
         "category": "videocard",
-        "price_before": 159800,
+        "price": 159800,
         "param": {
             "pdf_Spec112": "99",
             "pdf_so": "p1"
@@ -254,7 +590,7 @@
     {
         "name": "Radeon RX 7900 XT",
         "category": "videocard",
-        "price_before": 125800,
+        "price": 125800,
         "param": {
             "pdf_Spec112": "98",
             "pdf_so": "p1"
@@ -263,7 +599,7 @@
     {
         "name": "Radeon RX 6950 XT",
         "category": "videocard",
-        "price_before": 97800,
+        "price": 97800,
         "param": {
             "pdf_Spec112": "96",
             "pdf_so": "p1"
@@ -272,7 +608,7 @@
     {
         "name": "Radeon RX 6900 XT",
         "category": "videocard",
-        "price_before": 95700,
+        "price": 95700,
         "param": {
             "pdf_Spec112": "88",
             "pdf_so": "p1"
@@ -281,7 +617,7 @@
     {
         "name": "Radeon RX 6800 XT",
         "category": "videocard",
-        "price_before": 84800,
+        "price": 84800,
         "param": {
             "pdf_Spec112": "86",
             "pdf_so": "p1"
@@ -290,7 +626,7 @@
     {
         "name": "Radeon RX 6800",
         "category": "videocard",
-        "price_before": 77248,
+        "price": 84980,
         "param": {
             "pdf_Spec112": "87",
             "pdf_so": "p1"
@@ -299,7 +635,7 @@
     {
         "name": "Radeon RX 6750 XT",
         "category": "videocard",
-        "price_before": 58800,
+        "price": 58800,
         "param": {
             "pdf_Spec112": "95",
             "pdf_so": "p1"
@@ -308,7 +644,7 @@
     {
         "name": "Radeon RX 6700 XT",
         "category": "videocard",
-        "price_before": 53980,
+        "price": 53980,
         "param": {
             "pdf_Spec112": "89",
             "pdf_so": "p1"
@@ -317,7 +653,7 @@
     {
         "name": "Radeon RX 6700",
         "category": "videocard",
-        "price_before": 54980,
+        "price": 54980,
         "param": {
             "pdf_Spec112": "97",
             "pdf_so": "p1"
@@ -326,7 +662,7 @@
     {
         "name": "Radeon RX 6650 XT",
         "category": "videocard",
-        "price_before": 44800,
+        "price": 44800,
         "param": {
             "pdf_Spec112": "94",
             "pdf_so": "p1"
@@ -335,7 +671,7 @@
     {
         "name": "Radeon RX 6600 XT",
         "category": "videocard",
-        "price_before": 46800,
+        "price": 46800,
         "param": {
             "pdf_Spec112": "90",
             "pdf_so": "p1"
@@ -344,7 +680,7 @@
     {
         "name": "Radeon RX 6600",
         "category": "videocard",
-        "price_before": 34800,
+        "price": 34800,
         "param": {
             "pdf_Spec112": "91",
             "pdf_so": "p1"
@@ -353,7 +689,7 @@
     {
         "name": "Radeon RX 6500 XT",
         "category": "videocard",
-        "price_before": 20800,
+        "price": 20800,
         "param": {
             "pdf_Spec112": "92",
             "pdf_so": "p1"
@@ -362,7 +698,7 @@
     {
         "name": "Radeon RX 6400",
         "category": "videocard",
-        "price_before": 19800,
+        "price": 19800,
         "param": {
             "pdf_Spec112": "93",
             "pdf_so": "p1"
@@ -371,7 +707,7 @@
     {
         "name": "Radeon RX 5700 XT",
         "category": "videocard",
-        "price_before": 45980,
+        "price": 45980,
         "param": {
             "pdf_Spec112": "82",
             "pdf_so": "p1"
@@ -380,7 +716,7 @@
     {
         "name": "Radeon RX 580",
         "category": "videocard",
-        "price_before": 27782,
+        "price": 27782,
         "param": {
             "pdf_Spec112": "69",
             "pdf_so": "p1"
@@ -389,7 +725,7 @@
     {
         "name": "Radeon RX 550",
         "category": "videocard",
-        "price_before": 11980,
+        "price": 11980,
         "param": {
             "pdf_Spec112": "71",
             "pdf_so": "p1"
@@ -398,7 +734,7 @@
     {
         "name": "Radeon RX 560",
         "category": "videocard",
-        "price_before": 11980,
+        "price": 11980,
         "param": {
             "pdf_Spec112": "75",
             "pdf_so": "p1"
@@ -407,7 +743,7 @@
     {
         "name": "Arc A770",
         "category": "videocard",
-        "price_before": 39980,
+        "price": 39980,
         "param": {
             "pdf_Spec116": "3",
             "pdf_so": "p1"
@@ -416,7 +752,7 @@
     {
         "name": "Arc A750",
         "category": "videocard",
-        "price_before": 34980,
+        "price": 34980,
         "param": {
             "pdf_Spec116": "2",
             "pdf_so": "p1"
@@ -425,7 +761,7 @@
     {
         "name": "Arc A380",
         "category": "videocard",
-        "price_before": 21800,
+        "price": 21800,
         "param": {
             "pdf_Spec116": "1",
             "pdf_so": "p1"

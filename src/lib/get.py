@@ -11,6 +11,20 @@ def get_data(product_name):
 
     return data
 
+def get_data_p(product_name):
+    rpf = open("data/products.json")
+    pf = json.load(rpf)
+
+    #商品データ取得
+    for pd in pf:
+        if pd["name"] == product_name:
+            product_data = pd
+            break
+    
+    url = product_data["url"]
+    data = requests.get(url)
+    return data
+
 def get_url(product_name):
     #商品名からurlを返す
     
@@ -34,21 +48,30 @@ def get_url(product_name):
 
     return url,param
 
+def get_product_entry(product_name):
+    #データ取り込み
+    rpf = open("data/products.json")
+    pf = json.load(rpf)
+
+    #商品データ取得
+    for pd in pf:
+        if pd["name"] == product_name:
+            product_data = pd
+            break
+
+    return product_data
 
 def set_price(product_data):
     rpf = open("data/products.json")
     pf = json.load(rpf)
     rpf.close()
-    price_before = ""
     for pd in pf:
             if pd["name"] == product_data["name"]:
-                price_before = pd["price_before"]
-                pd["price_before"] = product_data["price"]
+                pd["price"] = product_data["price"]
                 break
     
     rpf = open("data/products.json","w")
     json.dump(pf,rpf,indent=4)
-    return price_before
 
 def product_list():
     rpf = open("data/products.json")
